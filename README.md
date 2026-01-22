@@ -77,7 +77,7 @@ npm run preview
 npm run lint
 ```
 
-## Deployment
+## Deployment process
 
 Build the project for production:
 
